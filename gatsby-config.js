@@ -3,7 +3,7 @@ module.exports = {
     title: `kodeBaik`,
     author: `Tukang Ketik`,
     description: `Berbagi baiknya koding`,
-    siteUrl: `https://kodebaik.github.io/`,
+    siteUrl: `/`,
     social: {
       twitter: `kodebaik`,
     },
