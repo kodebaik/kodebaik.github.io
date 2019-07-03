@@ -9,3 +9,5 @@ description: Baiklah
 # OK. Baiklah.
 
 > Mulai berbagi tips & code
+
+test netlify CI/CD
