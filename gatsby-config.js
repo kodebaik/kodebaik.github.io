@@ -1,9 +1,10 @@
 module.exports = {
+  pathPrefix: `/`,
   siteMetadata: {
     title: `kodeBaik`,
     author: `Tukang Ketik`,
     description: `Berbagi baiknya koding`,
-    siteUrl: `/`,
+    siteUrl: `https://kodebaik.github.io/`,
     social: {
       twitter: `kodebaik`,
     },
